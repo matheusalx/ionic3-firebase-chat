@@ -1,0 +1,13 @@
+{
+  "name": "UAzapi",
+  "short_name": "UAzapi",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/images/logo.png",
+    "sizes": "238x238",
+    "type": "image/png"
+  }],
+  "background_color": "#DA70D6",
+  "theme_color": "#DA70D6"
+}
